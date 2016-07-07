@@ -1,5 +1,6 @@
 # Locu-API
 
-Simple Python console application to learn the basics of how to use an API. I used the Locu API to print the names of businesses along with their phone numbers.
+Simple Python console application to learn the basics of how to use an API. I used the Locu API to print the names of businesses along with their phone numbers in a city specified by the user.
 
-To run: open python in computer and copy code into the console to run. call locu_search('specified city')
+To run: run file name with city in quotation marks
+Ex: python locuapi.py "Lakewood"
